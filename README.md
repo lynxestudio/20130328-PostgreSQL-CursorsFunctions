@@ -20,9 +20,6 @@ FROM invoices WHERE invoice_number = p_number;
 </div>
 <p align="justify">Los cursores pueden emplearse dentro de funciones PL/SQL para que las aplicaciones que accedan a PostgreSQL puedan utilizarlos más de una vez.</p>
 <p align="justify">Como ejemplo tenemos una base de datos llamada <b>myinvoices</b>,
-<div>
-<IMG src="images/fig1.png" width="777">
-</div><br>
 que contiene las siguientes tablas:
 <div><b>invoices</b></div>
 <div><b>invoicedetails</b></div>
